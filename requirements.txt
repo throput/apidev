@@ -11,7 +11,6 @@ livereload==2.5.1
 MarkupSafe==0.23
 mccabe==0.6.1
 pathtools==0.1.2
-pkg-resources==0.0.0
 port-for==0.3.1
 Pygments==2.2.0
 pylint==1.6.5
