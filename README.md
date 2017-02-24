@@ -1,2 +1,2 @@
 # apidev
-Cloud Service API Development and Management Guide
+Cloud Application API Development and Management Guide
