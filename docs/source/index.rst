@@ -11,16 +11,16 @@ Cloud Application API Development and Management Guide
    :caption: Contents:
 
 Microservices, Miniservices, and Macroservices
-==============================================
+----------------------------------------------
 
 REST API Modeling, Design and Management
-========================================
+----------------------------------------
 
 Cloud API Application Patterns
-==============================
+------------------------------
 
 API Provisioning Architecture
-=============================
+-----------------------------
 
 Authenication, Authorization, and Encrpyption
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,11 +33,6 @@ Monitoring, and Alerting
 
 Analytics and Auditing
 ~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-
 
 
 
