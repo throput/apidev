@@ -48,9 +48,10 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Cloud Application API Development and Management Guide'
-copyright = '2017, Dr Thomas Lee'
+project = 'Cloud API Development'
+copyright = '2017, Throput Limited'
 author = 'Dr Thomas Lee'
+html_show_copyright = False
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -129,7 +130,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'CloudApplicationAPIDevelopmentandManagementGuide.tex', 'Cloud Application API Development and Management Guide Documentation',
+    (master_doc, 'CloudAPIDevelopmentand.tex', 'Cloud API Development',
      'Dr Thomas Lee', 'manual'),
 ]
 
@@ -139,7 +140,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'cloudapplicationapidevelopmentandmanagementguide', 'Cloud Application API Development and Management Guide Documentation',
+    (master_doc, 'cloudapidevelopment', 'Cloud Application API Development',
      [author], 1)
 ]
 
@@ -150,8 +151,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'CloudApplicationAPIDevelopmentandManagementGuide', 'Cloud Application API Development and Management Guide Documentation',
-     author, 'CloudApplicationAPIDevelopmentandManagementGuide', 'One line description of project.',
+    (master_doc, 'CloudAPIDevelopment', 'Cloud API Development',
+     author, 'CloudAPIDevelopment', 
+     'This project provides the docunmentation on practices on developing cloud application API',
      'Miscellaneous'),
 ]
 
