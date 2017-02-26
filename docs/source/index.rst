@@ -1,34 +1,61 @@
-.. Cloud Application API Development and Management Guide documentation master file, created by
-   sphinx-quickstart on Fri Feb 24 11:04:34 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Cloud API Development
 =====================
 
-Microservices, Miniservices, and Macroservices
-----------------------------------------------
+Introduction
+------------
 
-REST API Modeling, Design and Management
-----------------------------------------
+With the rise of *as-a-service*-style application development, one key
+challenge facing many enterprises and software vendors is to have their
+software engineers learn the industry best practices on *architecting*
+Application Programming Interfaces (APIs).
 
-Cloud API Application Patterns
-------------------------------
+Despite the importance of API architecting, the best practices and resources
+in this area are scattered and not incoherent. This open-source project aims
+to provide an informational website to organize and share resources, such as
+guidelines, methodologies, examples, that help organize to design, implement,
+and manage APIs.
 
-API Provisioning Architecture
------------------------------
+We intend to cover various aspects about the life-cycle of API implementation,
+i.e., design, development, operation, and management, such as the following:
 
-Authenication, Authorization, and Encrpyption
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* modeling and implementing an API, data models and formats,
+* re-architecting a silo applications into a mashup service provisioning an
+  API for internal and external integration,
+* securing an API with authorization and authentication, data encryption, and
+  distributed-denial-of-service (DDoS) protection, and
+* versioning an API.
 
-Orchestration, Mediation, and Transformation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Being the contributors to this open-source project, we are software architects
+and engineers who have been developing API-equipped application services in
+our own organizations and are passionate about sharing our learning and
+implementaiton experiences on this website.
 
-Monitoring, and Alerting
-~~~~~~~~~~~~~~~~~~~~~~~~
+Positioned as an informational website, this project, however, does not aim to
+develop any API solutions. Athough in the future we may provide coding
+examples and compare relevant software tools in the market, we tend to be
+netural regarding programming languages, development platforms, and software
+vendors.
 
-Analytics and Auditing
-~~~~~~~~~~~~~~~~~~~~~~
+Topics
+------
+* :doc:`practices`
+* :doc:`tools`
+* :doc: `cases`
+
+About Us
+--------
+* :doc: `contributors`
+
+..
+  Topics to be discussed
+  * Microservices, Miniservices, and Macroservices
+  * REST API Modeling, Design and Management
+  * Cloud API Application Patterns
+  * API Provisioning Architecture
+    * Authenication, Authorization, and Encrpyption
+    * Orchestration, Mediation, and Transformation
+    * Monitoring, and Alerting
+    * Analytics and Auditing
 
 
 .. toctree::
