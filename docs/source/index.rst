@@ -61,7 +61,8 @@ About This Project
 
 .. toctree::
    :maxdepth: 2
-	     
+   :hidden:
+
    Development Practices <practices>
    API Tools <tools>
    Examples and Cases <cases>
