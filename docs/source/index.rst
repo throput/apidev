@@ -15,8 +15,9 @@ to provide an informational website to organize and share resources, such as
 guidelines, methodologies, examples, that help organize to design, implement,
 and manage APIs.
 
-We intend to cover various aspects about the life-cycle of API implementation,
-i.e., design, development, operation, and management, such as the following:
+We intend to cover various aspects regarding the life-cycle of API
+implementation, i.e., design, development, operation, and management, such as
+the following:
 
 * modeling and implementing an API, with its data models and formats,
 * re-architecting a silo application into a mashup service provisioning APIs
@@ -45,7 +46,7 @@ Topics
 About This Project
 ------------------
 * :doc:`Project Contributors <contributors>`
-* `Open-source repository <https://github.com/throput/apidev>`_
+* `Open-Source Repository <https://github.com/throput/apidev>`_
 
 ..
   Topics to be discussed
@@ -65,7 +66,7 @@ About This Project
    API Tools <tools>
    Examples and Cases <cases>
    Project Contributors <contributors>
-
+   
 
 
 
