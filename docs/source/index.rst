@@ -38,9 +38,9 @@ vendors.
 
 Topics
 ------
-* :doc:`practices`
-* :doc:`tools`
-* :doc:`cases`
+* :doc:`Development Practices <practices>`
+* :doc:`API Tools <tools>`
+* :doc:`Examples and Cases <cases>`
 
 About This Project
 ------------------
@@ -61,10 +61,10 @@ About This Project
 .. toctree::
    :maxdepth: 2
 	     
-   practices
-   tools
-   cases
-   contributors
+   Development Practices <practices>
+   API Tools <tools>
+   Examples and Cases <cases>
+   Contributors <contributors>
 
 
 
