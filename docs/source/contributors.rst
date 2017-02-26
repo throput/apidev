@@ -1,4 +1,2 @@
 APIDev.Cloud Contributors
 =========================
-
-

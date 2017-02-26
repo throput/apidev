@@ -40,7 +40,7 @@ Topics
 ------
 * :doc:`practices`
 * :doc:`tools`
-* :doc: `cases`
+* :doc:`cases`
 
 About Us
 --------
