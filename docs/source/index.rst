@@ -42,9 +42,10 @@ Topics
 * :doc:`tools`
 * :doc:`cases`
 
-About Us
---------
+About This Project
+------------------
 * :doc:`contributors`
+* Open-source repository: https://github.com/throput/apidev
 
 ..
   Topics to be discussed
