@@ -44,8 +44,8 @@ Topics
 
 About This Project
 ------------------
-* :doc:`contributors`
-* Open-source repository: https://github.com/throput/apidev
+* :doc:`Project Contributors <contributors>`
+* `Open-source repository <https://github.com/throput/apidev>`_
 
 ..
   Topics to be discussed
@@ -64,7 +64,7 @@ About This Project
    Development Practices <practices>
    API Tools <tools>
    Examples and Cases <cases>
-   Contributors <contributors>
+   Project Contributors <contributors>
 
 
 
