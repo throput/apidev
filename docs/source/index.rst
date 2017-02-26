@@ -18,19 +18,19 @@ and manage APIs.
 We intend to cover various aspects about the life-cycle of API implementation,
 i.e., design, development, operation, and management, such as the following:
 
-* modeling and implementing an API, data models and formats,
-* re-architecting a silo applications into a mashup service provisioning an
-  API for internal and external integration,
-* securing an API with authorization and authentication, data encryption, and
-  distributed-denial-of-service (DDoS) protection, and
-* versioning an API.
+* modeling and implementing an API, with its data models and formats,
+* re-architecting a silo application into a mashup service provisioning APIs
+  for internal and external integration,
+* securing API provision with authorization and authentication, data
+  encryption, and distributed-denial-of-service (DDoS) protection, and
+* versioning APIs.
 
 Being the contributors to this open-source project, we are software architects
 and engineers who have been developing API-equipped application services in
 our own organizations and are passionate about sharing our learning and
 implementaiton experiences on this website.
 
-Positioned as an informational website, this project, however, does not aim to
+Being as an informational website, this project, however, does not aim to
 develop any API solutions. Athough in the future we may provide coding
 examples and compare relevant software tools in the market, we tend to be
 netural regarding programming languages, development platforms, and software
