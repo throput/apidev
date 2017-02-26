@@ -47,6 +47,7 @@ About This Project
 ------------------
 * :doc:`Project Contributors <contributors>`
 * `Open-Source Repository <https://github.com/throput/apidev>`_
+* `Discussion Forum <https://groups.google.com/group/apidevcloud>`_
 
 ..
   Topics to be discussed
