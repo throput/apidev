@@ -44,7 +44,7 @@ Topics
 
 About Us
 --------
-* :doc: `contributors`
+* :doc:`contributors`
 
 ..
   Topics to be discussed
@@ -57,10 +57,14 @@ About Us
     * Monitoring, and Alerting
     * Analytics and Auditing
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+	     
+   practices
+   tools
+   cases
+   contributors
 
 
 

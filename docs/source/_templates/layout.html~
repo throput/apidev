@@ -1,0 +1,8 @@
+{% extends '!layout.html' %} {% block footer %}
+<div class="footer">
+    Open-source project sponsored by
+    <a href="http://www.throput.com">Throput Limited</a> | Powered by <a href="http://sphinx-doc.org/">Sphinx 1.5.2</a> &amp;
+    <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.9</a> |
+    <a href="_sources/index.rst.txt" rel="nofollow">Page source</a>
+</div>
+{% endblock %}
