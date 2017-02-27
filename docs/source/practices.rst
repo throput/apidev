@@ -1,2 +1,2 @@
-API Development Practices
-=========================
+API Development Practices and Standards
+=======================================

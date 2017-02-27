@@ -39,8 +39,8 @@ vendors.
 
 Topics
 ------
-* :doc:`Development Practices <practices>`
-* :doc:`API Tools <tools>`
+* :doc:`Practices and Standards <practices>`
+* :doc:`Tools and Platforms <tools>`
 * :doc:`Examples and Cases <cases>`
 
 About This Project
@@ -64,14 +64,7 @@ About This Project
    :maxdepth: 2
    :hidden:
 
-   Development Practices <practices>
-   API Tools <tools>
+   Practices and Standards <practices>
+   Tools and Platforms <tools>
    Examples and Cases <cases>
    Project Contributors <contributors>
-   
-
-
-
-
-
-
