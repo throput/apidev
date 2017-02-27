@@ -157,5 +157,9 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+html_logo = '_static/images/logo.png'
+
+html_favicon = '_static/images/favicon.ico'
+
 
 
