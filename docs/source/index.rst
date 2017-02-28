@@ -12,8 +12,8 @@ their software engineers learn the industry best practices on
 Despite the importance of API architecting, the best practices and
 resources in this area are scattered and incoherent. This open-source
 project aims to provide a portal to organize and share resources, such
-as practices, methodologies, and examples that help organize to
-design, implement, and manage APIs.
+as guidelines, methodologies, standards, examples, and case studies
+that help organize to design, implement, and manage APIs.
 
 We intend to cover various aspects regarding the life-cycle of API
 implementation, i.e., design, development, operation, and management,
