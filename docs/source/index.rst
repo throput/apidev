@@ -7,7 +7,7 @@ Introduction
 With the rise of *as-a-service*-style application development, one key
 challenge facing many enterprises and software vendors is to have
 their software engineers learn the industry best practices on
-*architecting* Application Programming Interfaces (APIs).
+architecting *Application Programming Interfaces (APIs)*.
 
 Despite the importance of API architecting, the best practices and
 resources in this area are scattered and incoherent. This open-source
