@@ -13,7 +13,8 @@ Despite the importance of API architecting, the best practices and
 resources in this area are scattered and incoherent. This open-source
 project aims to provide a portal to organize and share resources, such
 as guidelines, methodologies, standards, examples, and case studies
-that help organizations to design, implement, and manage APIs.
+that help organizations architect and build applications with cloud
+APIs.
 
 We intend to cover various aspects regarding the life-cycle of API
 implementation, i.e., design, development, operation, and management,
@@ -27,7 +28,7 @@ such as the following:
 * managing different API versions.
 
 Being the contributors to this open-source project, we are software
-architects and engineers who have been developing API-equipped
+architects and engineers who have been developing API-ready
 application services in our own organizations and are passionate about
 sharing our learning and implementaiton experiences on this website.
 
